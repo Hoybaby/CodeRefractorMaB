@@ -10,4 +10,6 @@
 
 <p>Not only where links not being executed, the format for some of the code wasn't done properly as shown in the image below. Where there was some div tags, a proper semantic tag would be better like a header tag and aside tag. For every image, there was an alt attribute missing which very important to have. It is important to have because incase an image does not load, it will display an image that gives a description of what it would have been.</p> 
 
+![changesactivity](https://user-images.githubusercontent.com/70716786/96808723-5e930a80-13e7-11eb-8030-0bdfa7bc090c.png)
+
 Also changed some of the semantic tags. Hello
